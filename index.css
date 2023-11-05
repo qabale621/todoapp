@@ -1,0 +1,81 @@
+body {
+    background-image:url(theme-myxwi9eaz6f90bag.jpg) ;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 200;
+    font-style: italic;
+    font-weight: 200;
+    color: #333;
+}
+
+h1 {
+    color:blue;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 50px;
+    font-style: oblique;
+    font-weight: bold;
+
+}
+
+#taskInput {
+    width: 300px;
+    height: 40px;
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+#taskInput:focus {
+    outline: none;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+#addTaskButton {
+    background-color: #ff4081;
+    color: gray;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#addTaskButton:hover {
+    background-color: #f50057;
+}
+
+#taskList {
+    list-style-type: none;
+    margin-top: 20px;
+    padding: 0;
+}
+
+#taskList li {
+    background-color:white;
+    color: #333;
+    font-size: 16px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    margin-top:50px ;
+}
+
+#todo-container {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}

@@ -48,4 +48,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Live Preview
 
-[Try Here]([https://github.com/qabshens621](https://qabshens-todo.vercel.app)https://qabshens-todo.vercel.app)
+([https://github.com/qabshens621](https://qabshens-todo.vercel.app)
